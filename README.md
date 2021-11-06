@@ -3,7 +3,7 @@
 # GRUPO 3 - Turma 2
 @Kaah Mathias
 @Mirian Cris
-@Naira = 21 980486012
+@Naira
 @Pedro Lopes Baião
 @Reginaldo Ferreira Matos
 @Rafael Smith
